@@ -1,0 +1,48 @@
+Module4-Deliverable3
+
+Report for the School District Analysis
+
+Background: In one of the High Schools- Thomas High School, there seems to be data alteration for the Ninth Graders. The school board has notified Maria that the reading and mathematics grades for the 9th grades have been compromised. So, she has asked the consultants to clean out these compromised scores and instead put NaN (NaN is not a number). In this way, integrity can be maintained. The rest of the report would remain unaltered.
+
+The purpose of the report is to provide facts and figures on each schools performance as measured by the test scores. Additionally, the report has to provide spending per student and assess the affect of small school size to student performance.
+
+Analysis:
+
+There are 15 schools in this district with 39172 students. Of these students only 463 students were affected, so all the school indices remained largely unchanged and intact. The effect on the overall performance of the school district was marginal. They affected students were only 1.18% (New student count was 38709). Although dishonesty should be discouraged, but very small amounts is hardly a cause of concern. Nobody is 100% perfect!
+
+Of concern were some new insights that the data revealed:
+
+•	Spending per student did not affect performance. Schools where spending/student was the lowest produced some of the best results.
+
+Spending per Student	Average Math Score	Average Reading Score	% Passing Mathematics	% Passing Reading	% Overall Passing
+< $584
+	83.5	83.9	93	97	90
+
+$585-629	81.9	83.2	87	93	81
+
+$630-644	78.5	81.6	73	84	63
+
+$645-675	77	81	66	81	54
+•	The size of the school mattered, smaller schools produced better results. It is a well known fact that smaller class sizes produce more learning, but smaller school sizes make the administration more effective, so the results are much better.
+
+School Size	Avg. Math Score	Avg. Reading Score	% Passing Math	%Passing Reading	% Overall Passing
+Small (<1000)	83.8%	83.9%	94	96	90
+Medium(1000-2000)	83.4%	83.9%	94		91
+Large (2000-5000)	77.7%	81.3%	70	83	58
+
+•	The type of the school makes a difference. Charter Schools do much better than District Schools.
+
+School Type	Average Math Score (%)	Average Reading Score (%)	% Passing Math	% Passing
+Reading	% Overall Passing
+Charter	83.5	83.9	94	97	90
+District	77	81	67	81	54
+
+Summary of Changes:
+
+1.	Students who got their reading and mathematics scores replaced have to be re-examined to get proper grades. Nan is not a grade.
+2.	Computer Security has to be upgraded, Students should not be able to get into the school records.
+3.	Ethics Class or Program has to be instituted for both staff and students
+4.	The idea that money can solve all problems is shown to be absurd. Sometimes, low funding is not the problem there may be other issues that need to be addressed.
+
+
+
